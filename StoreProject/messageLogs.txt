@@ -1,0 +1,15 @@
+client: observer.listeners.EmailCustomerListener@7291c18f; message: The item is back in stock!
+client: observer.listeners.EmailCustomerListener@7530d0a; message: The item is back in stock!
+client: observer.listeners.SMSCustomerListener@7291c18f; message: The item is now on sale!
+client: observer.listeners.SMSCustomerListener@7291c18f; message: The item is now on sale!
+client: observer.listeners.EmailCustomerListener@7530d0a; message: The item is back in stock!
+client: observer.listeners.EmailCustomerListener@27bc2616; message: The item is back in stock!
+client: observer.listeners.EmailCustomerListener@7530d0a; message: The item is back in stock!
+client: observer.listeners.EmailCustomerListener@27bc2616; message: The item is back in stock!
+client: observer.listeners.EmailCustomerListener@34a245ab; message: The item is back in stock!
+client: observer.listeners.EmailCustomerListener@27bc2616; message: The item is back in stock!
+client: observer.listeners.EmailCustomerListener@34a245ab; message: The item is back in stock!
+client: observer.listeners.EmailCustomerListener@27bc2616; message: The item is back in stock!
+client: observer.listeners.EmailCustomerListener@12edcd21; message: The item is back in stock!
+client: observer.listeners.EmailCustomerListener@4fca772d; message: The item is back in stock!
+client: observer.listeners.SMSCustomerListener@9807454; message: The item is now on sale!
